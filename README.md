@@ -1,6 +1,8 @@
 # O rompimento de uma barragem aumenta doações eleitorais ligadas à mineração?
 Repositório para documentar o trabalho final da disciplina Métodos em Inferência Causal, do Master em Jornalismo de Dados, Automação e Data Storytelling do Insper.
 
+*Grupo: Bianca Muniz, Jamille Santana e Jéssica Avelar e Thiago Araújo*
+
 ## 1. Pergunta de pesquisa:
 Considerando os acidentes em Mariana (2015) e Brumadinho (2019), o rompimento de uma barragem aumenta as doações eleitorais municipais de pessoas e empresas ligadas à atividade de mineração?
 
